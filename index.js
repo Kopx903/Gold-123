@@ -328,7 +328,7 @@ client.on(
 
         // Tối thiểu 3 ký tự
         if (
-            search.length < 3
+            search.length < 2
         ) {
             return;
         }
