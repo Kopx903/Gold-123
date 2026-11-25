@@ -288,7 +288,17 @@
     "name": "Akekuri",
     "id": "1547845328881979533"
   }
-  
+    },
+    "Kay": {
+    "name": "Kay",
+    "aliases": [
+    "Ceobe"
+    ],
+    "image": "./images/Kay.jpg",
+    "emoji": {
+    "name": "Akekuri",
+    "id": "1547845328881979533"
+  }
   
 }
 }
